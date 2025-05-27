@@ -1,4 +1,5 @@
 [STOCK DASHBOARD.pdf](https://github.com/user-attachments/files/20464294/STOCK.DASHBOARD.pdf)# **Stock Market Dashboard**
+
 https://github.com/user-attachments/assets/324ff9b1-fd48-4b83-83dd-67e57d34087f
 
 ## **Features**
