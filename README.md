@@ -52,6 +52,5 @@ This project is optimized for modularity, performance, and maintainability, usin
 
 
 
-https://github.com/user-attachments/assets/eb965817-9734-42f3-bac7-5d8052628c00
-
+https://github.com/user-attachments/assets/324ff9b1-fd48-4b83-83dd-67e57d34087f
 
