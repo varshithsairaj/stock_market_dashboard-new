@@ -51,3 +51,7 @@ This project is optimized for modularity, performance, and maintainability, usin
 [STOCK DASHBOARD.pdf](https://github.com/user-attachments/files/20464298/STOCK.DASHBOARD.pdf)
 
 
+
+https://github.com/user-attachments/assets/eb965817-9734-42f3-bac7-5d8052628c00
+
+
